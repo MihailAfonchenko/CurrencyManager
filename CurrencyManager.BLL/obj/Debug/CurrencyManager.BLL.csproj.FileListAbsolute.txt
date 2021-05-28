@@ -1,0 +1,60 @@
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csprojAssemblyReference.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CopyComplete
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.BLL\obj\Debug\CurrencyManager.BLL.pdb

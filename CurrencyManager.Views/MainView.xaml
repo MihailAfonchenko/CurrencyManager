@@ -1,0 +1,27 @@
+﻿<dx:ThemedWindow x:Class="CurrencyManager.Views.MainView"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CurrencyManager.Views"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/shared"
+        xmlns:dxwui="http://schemas.devexpress.com/winfx/2008/xaml/windowsui"
+        xmlns:dxwuin="http://schemas.devexpress.com/winfx/2008/xaml/windowsui/navigation"
+        xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Height="450" Width="800" Title="{Binding Title}" Loaded="{DXEvent Loaded()}" WindowStartupLocation="CenterScreen" WindowState="{Binding State}">
+    <dxwui:HamburgerMenu OpenPaneWidth="200"
+                         SelectedItem="{Binding HamburgerMenuSelectedItem, Mode=TwoWay}"
+                         NavigationTarget="{Binding ElementName=service}">
+        <dxwui:HamburgerMenuItemSeparator/>
+        <dxwui:HamburgerSubMenu Content="Menu">
+            <dxwui:HamburgerSubMenu.Items>
+                <dxwui:HamburgerSubMenuNavigationButton Content="MenuSubItem 1" PreviewContent="Главная страница" ShowInPreview="True" SelectOnClick="True"/>
+                <dxwui:HamburgerSubMenuNavigationButton Content="MenuSubItem 2" PreviewContent="Список валют" ShowInPreview="True" SelectOnClick="True"/>
+            </dxwui:HamburgerSubMenu.Items>
+        </dxwui:HamburgerSubMenu>
+    </dxwui:HamburgerMenu>
+</dx:ThemedWindow>

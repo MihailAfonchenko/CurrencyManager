@@ -1,0 +1,60 @@
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csprojAssemblyReference.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CopyComplete
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.DAL\obj\Debug\CurrencyManager.DAL.pdb

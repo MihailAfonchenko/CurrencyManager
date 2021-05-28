@@ -1,0 +1,47 @@
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csprojAssemblyReference.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CopyComplete
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager.Entities\obj\Debug\CurrencyManager.Entities.pdb

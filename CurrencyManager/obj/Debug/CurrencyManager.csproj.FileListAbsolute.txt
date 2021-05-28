@@ -1,0 +1,270 @@
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe.config
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.pdb
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.pdb
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csprojAssemblyReference.cache
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\App.g.cs
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.cache
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.Properties.Resources.resources
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.GenerateResource.cache
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CopyComplete
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.exe
+C:\Users\mihai\source\repos\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\App.g.cs
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.Properties.Resources.resources
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.GenerateResource.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CopyComplete
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csprojAssemblyReference.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\App.g.cs
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.lref
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\App.baml
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.g.resources
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.Properties.Resources.resources
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.GenerateResource.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CopyComplete
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.exe
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.pdb
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\mihai\Downloads\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\Quartz.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\App.g.cs
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.lref
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\App.baml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.g.resources
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.Properties.Resources.resources
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.GenerateResource.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager(1)\CurrencyManager(1)\CurrencyManager\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\App.g.cs
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager_MarkupCompile.lref
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.exe
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Xpf.Core.v19.2.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Quartz.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.v19.2.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.ViewModels.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Views.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ControlzEx.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Xpf.Core.v19.2.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\MahApps.Metro.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\Quartz.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Buffers.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Memory.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.DAL.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\CurrencyManager.Entities.dll.config
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Mvvm.v19.2.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\de\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\es\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ja\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ru\DevExpress.Xpf.Core.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\App.baml
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.g.resources
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.Properties.Resources.resources
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.GenerateResource.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\CurrencyManager\CurrencyManager\obj\Debug\CurrencyManager.csproj.CopyComplete
