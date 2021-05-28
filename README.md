@@ -1,0 +1,2 @@
+# CurrencyManager
+Create Project CurrencyManager
